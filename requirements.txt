@@ -28,7 +28,7 @@ MarkupSafe==1.0
 matplotlib==2.2.0
 mccabe==0.6.1
 nbformat==4.4.0
-numpy==1.14.1
+numpy==1.22.0
 pandas==0.22.0
 plotly==2.4.1
 pylint==1.8.2
